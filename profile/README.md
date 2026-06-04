@@ -25,7 +25,6 @@ The goal is Industry 5.0: plug-and-play factories that are adaptive, collaborati
 - **🤖 Robotics**: AI-native configuration, validation, and control of robotic cells — agents that program, calibrate, and adapt robots in real time, collapsing integration time and removing vendor lock-in.
 - **⚙️ Process Optimization**: Causal agents that monitor production lines end-to-end, predict failures weeks ahead, trace quality defects to their root cause, and tune parameters for throughput and energy.
 
----
 
 ## 🔬 Research
 
@@ -39,7 +38,6 @@ Our components are backed by peer-reviewed work — **5 ICML 2026 workshop accep
 
 👉 Code & models: [github.com/Forgis-Labs](https://github.com/Forgis-Labs)
 
----
 
 ## 🤝 Join Our Slack
 
@@ -47,7 +45,6 @@ We're opening access to **engineers, integrators, and manufacturers** who want t
 
 👉 [Join our Slack](https://join.slack.com/t/xelerit-robotics/shared_invite/zt-3bu5mhaau-PnUPklHcHZ4kfPPUIkQK9w)
 
----
 
 ## 📄 License
 
