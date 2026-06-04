@@ -14,8 +14,6 @@
 
 The signals are there. The intelligence isn't.
 
----
-
 ## The Solution
 
 **Forgis is the intelligent layer for the real world** — AI-native orchestration infrastructure that brings physical intelligence into hardware. Causal AI agents run on the edge as digital engineers: they learn from data, predict failures, optimize performance in real time, and guide operators to act before downtime occurs. From one unified interface, Forgis connects machines, information, and logic — turning disconnected automation into the brain of the factory.
@@ -40,11 +38,10 @@ Our components are backed by peer-reviewed work — **5 ICML 2026 workshop accep
 - **[RASA](https://www.forgis.com/papers/rasa.html)** *(GFM @ ICML)* — the knowledge-graph theory: a structural inductive bias for reasoning over knowledge graphs, grounding the Stage 2 semantic priors.
 
 👉 Code & models: [github.com/Forgis-Labs](https://github.com/Forgis-Labs)
-👉 Learn more: [forgis.com](https://www.forgis.com/)
 
 ---
 
-## 🤝 Join US
+## 🤝 Join Our Slack
 
 We're opening access to **engineers, integrators, and manufacturers** who want to shape the future of automation.
 
