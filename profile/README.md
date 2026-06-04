@@ -15,8 +15,6 @@
 
 <a href="https://join.slack.com/t/xelerit-robotics/shared_invite/zt-3bu5mhaau-PnUPklHcHZ4kfPPUIkQK9w"><img src="https://img.shields.io/badge/Join-Slack-ff5a00?style=flat-square&logo=slack&logoColor=white" alt="Join our Slack" /></a>
 <img src="https://img.shields.io/badge/ICML%202026-5%2F5%20accepted-122128?style=flat-square" alt="5/5 ICML 2026 acceptances" />
-<img src="https://img.shields.io/badge/models-open%20source-ff5a00?style=flat-square" alt="Open source models" />
-
 </div>
 
 ---
