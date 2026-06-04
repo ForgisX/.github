@@ -8,7 +8,7 @@
 
 ## The Problem Today
 
-- **Unused data**: Factories stream sensor data every millisecond — less than 1% ever drives a decision.
+- **Unused data**: Factories stream sensor data every millisecond but less than 1% ever drives a decision.
 - **Vanishing expertise**: Veteran operators read a machine by feel, but that intuition leaves with them as the workforce retires.
 - **Lost output**: Median OEE sits at 60%, far below the 85% world-class benchmark, while unplanned downtime erodes revenue.
 
@@ -16,7 +16,7 @@ The signals are there. The intelligence isn't.
 
 ## The Solution
 
-**Forgis is the intelligent layer for the real world** — AI-native orchestration infrastructure that brings physical intelligence into hardware. Causal AI agents run on the edge as digital engineers: they learn from data, predict failures, optimize performance in real time, and guide operators to act before downtime occurs. From one unified interface, Forgis connects machines, information, and logic — turning disconnected automation into the brain of the factory.
+**Forgis is the intelligent layer for the real world**, AI-native orchestration infrastructure that brings physical intelligence into hardware. Causal AI agents run on the edge as digital engineers: they learn from data, predict failures, optimize performance in real time, and guide operators to act before downtime occurs. From one unified interface, Forgis connects machines, information, and logic - turning disconnected automation into the brain of the factory.
 
 The goal is Industry 5.0: plug-and-play factories that are adaptive, collaborative, and self-optimizing. Orders flow from digital marketplaces straight into the line, agents reconfigure machines on demand, and strategy becomes execution. Humans conduct; the factory orchestrates itself below.
 
